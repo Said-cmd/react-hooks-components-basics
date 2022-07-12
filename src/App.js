@@ -2,6 +2,7 @@ import React from "react";
 import Article from "./Article";
 import Comment from "./Comment";
 
+
 function App() {
   return (
     <div>
@@ -10,5 +11,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
